@@ -1,0 +1,22 @@
+{
+    "name": "interactua",
+    "type": "project",
+    "description": "dashboard for interactua",
+    "homepage": "https://interactua.test",
+    "license": "MIT",
+    "require": {
+        "smarty/smarty": "~3.1",
+        "php": ">=5.6",
+        "dompdf/dompdf": "^0.8.2",
+        "phpmailer/phpmailer": "^6.0"        
+    },
+    "require-dev": {
+        "EHER/PHPUnit": ">= 1.6"
+    },
+    "authors": [
+        {
+            "name": "packo delgado",
+            "email": "packo6300@gmail.com.com"
+        }
+    ]
+}
